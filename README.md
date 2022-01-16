@@ -1,2 +1,3 @@
 # C-projects
-Programs done in C++
+Programs done in C
+
